@@ -1,2 +1,2 @@
 # PrepCourseHenrysofi
-Es un repositorio de modulo2 prepcourse Henrysofi 
+Este proyecto es una prueba de cómo crear un repositorio y clonarlo desde github a mi escritorio. 
